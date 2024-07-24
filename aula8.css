@@ -1,0 +1,35 @@
+body {
+    font-family: Arial,sans-serif;
+    background-color: blueviolet;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #0066cc;
+}
+
+a{
+    color: #0099ff;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.container{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.container{
+    font-weight:bold;
+    font-size: 1.2em;
+}
+.container{
+    font-style: normal;
+    font-size: 1.2em;
+}
